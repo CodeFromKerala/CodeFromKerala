@@ -14,10 +14,7 @@ Im an 18yr old student pursuing a degree in Electrical and Computer Engineering.
 - 💻 Proficient in C, Java, Python, JS, Basic Web-dev tools, LaTeX.
 - 🐧 FOSS enthusiast: Contributor to [CETMaps](https://www.github.com/RohanKishore/CETMaps) and [Noesis](https://www.github.com/RohanKishore/Noesis)
 - 💬 Talk to me about physics, math or how to make life better using tech 😁
-
-## Current Projects
-### Check out my projects 😋
-
+- 🔬 Currently working on a paper on operator theory, working on open source web apps.
 
 ## 📈 GitHub Activity
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CodeFromKerala&theme=react-dark)](https://github.com/Ashutosh00710/github-readme-activity-graph)
