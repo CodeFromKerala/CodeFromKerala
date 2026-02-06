@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi, I'm Madhav J Nair! 👋
 
-<!--
-**CodeFromKerala/CodeFromKerala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+First-year B.Tech EL @ College of Engineering Trivandrum (CET), Kerala.  
+Driven by pure mathematics, theoretical physics, and algorithmic problem-solving.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🔭 Currently diving into variational calculus, relativistic field theory, operator theory.
+- 💻 Proficient in C, Python, Basic Web-dev tools, LaTeX.
+- 
+- 🎯 Open to math/physics research or internships—let's connect!
+
+## 📈 GitHub Activity
+![Activity](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&hide_border=true)
+
+## 🌐 Find Me
+- 📧 Email: [mjnair52@gmail.com]
+- 🔗 LinkedIn: [[linkedin.com/](https://www.linkedin.com/in/madhav-j-nair-878bb6372/)]
+- 
