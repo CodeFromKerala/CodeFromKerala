@@ -1,8 +1,8 @@
 ## Hi, I'm Madhav J Nair! 👋
 
-First-year @ College of Engineering, Trivandrum. 
+First-year @ College of Engineering, Trivandrum.  
 Driven by Math, Physics and Algorithmic Problem Solving
-"Reality is merely an illusion, albeit a very persistent one."
+>"Reality is merely an illusion, albeit a very persistent one."
 — Albert Einstein
 
 
@@ -20,7 +20,8 @@ Im an 18yr old student pursuing a degree in Electrical and Computer Engineering.
 
 
 ## 📈 GitHub Activity
-![Activity](https://github-readme-activity-graph.vercel.app/graph?username=CodeFromKerala&theme=react-dark&hide_border=true)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CodeFromKerala&theme=react-dark)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
 
 ## 🌐 Find Me
 - 📧 Email: [mjnair52@gmail.com](mailto:mjnair52@gmail.com)
