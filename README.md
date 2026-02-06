@@ -11,7 +11,7 @@ Driven by pure mathematics, theoretical physics, and algorithmic problem-solving
 - 🎯 Open to math/physics research or internships—let's connect!
 
 ## 📈 GitHub Activity
-![Activity](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&hide_border=true)
+![Activity](https://github-readme-activity-graph.vercel.app/graph?username=CodeFromKerala&theme=react-dark&hide_border=true)
 
 ## 🌐 Find Me
 - 📧 Email: [mjnair52@gmail.com]
