@@ -16,7 +16,7 @@ Im an 18yr old student pursuing a degree in Electrical and Computer Engineering.
 - 💬 Talk to me about physics, math or how to make life better using tech 😁
 
 ## Current Projects
-# Check out my projects 😋
+### Check out my projects 😋
 
 
 ## 📈 GitHub Activity
