@@ -12,7 +12,7 @@ Im an 18yr old student pursuing a degree in Electrical and Computer Engineering.
 
 - 🔭 Currently diving into variational calculus, relativistic field theory, operator theory.
 - 💻 Proficient in C, Java, Python, JS, Basic Web-dev tools, LaTeX.
-- 🐧 FOSS enthusiast: Contributor to [CETMaps](https://www.github.com/RohanKishore/CETMaps) and [Noesis](https://www.github.com/RohanKishore/Noesis)
+- 🐧 FOSS enthusiast: Contributor to [CETMaps](https://www.github.com/RohanKishore/CETMaps), [Noesis](https://www.github.com/RohanKishore/Noesis) and the website of [fossCET][https://www.codeberg.org/fosscet/website-src]
 - 💬 Talk to me about physics, math or how to make life better using tech 😁
 - 🔬 Currently working on a paper on operator theory, working on open source web apps.
 
