@@ -18,16 +18,16 @@ Currently working on a paper on fractional calculus, working on open source web 
 
 ## Experience
 
-Research Intern - IISER TVM
-Content Lead - [FOSSCET](https://fosscet.codeberg.page/)
-Research Team Member - SCORE@CET
-Web-Dev Team Member - EL Association
+- Research Intern - IISER TVM
+- Content Lead - [FOSSCET](https://fosscet.codeberg.page/)
+- Research Team Member - SCORE@CET
+- Web-Dev Team Member - EL Association
 
 ## GitHub Activity
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CodeFromKerala&theme=react-dark)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 
 ## Find Me
-Email: [mjnair52@gmail.com](mailto:mjnair52@gmail.com)
-LinkedIn: [Madhav J Nair](https://www.linkedin.com/in/madhav-j-nair-878bb6372/)
-Instagram: [\_madhavjnair\_](https://www.instagram.com/_madhavjnair_/)
+- Email: [mjnair52@gmail.com](mailto:mjnair52@gmail.com)
+- LinkedIn: [Madhav J Nair](https://www.linkedin.com/in/madhav-j-nair-878bb6372/)
+- Instagram: [\_madhavjnair\_](https://www.instagram.com/_madhavjnair_/)
