@@ -1,20 +1,20 @@
-## Hi, I'm Madhav J Nair! 👋
-
-First-year @ College of Engineering, Trivandrum.  
-Driven by Math, Physics and Algorithmic Problem Solving
+## Hi, I'm Madhav J Nair!
+ 
+First-year @ College of Engineering, Trivandrum.
 >"Reality is merely an illusion, albeit a very persistent one."
 — Albert Einstein
 
 
-## About Me
+## I study sometimes. Other times I do these -
+- Work on a fractional calculus paper
+- Code experiments of said fractional calculus paper
+- Read math papers and books
+- get the hint, im a nerd.
 
-I'm a first-year Electrical and Computer Engineering student with interests in mathematics, theoretical physics, and algorithmic problem solving. I enjoy exploring ideas at the intersection of these fields and documenting what I learn along the way.
-
-My current interests include fractional calculus, scientific computing, open-source software, and web development. I primarily work with C, Python, JavaScript, LaTeX, and Linux-based systems.
-
-FOSS Enthusiast - Contributor and Arch user.
-Talk to me about physics, math or how to make life better using tech.
-Currently working on a paper on fractional calculus, working on open source web apps, interning at IISER TVM.
+## I do code sometimes -
+- I take part in fixing some of [Rohan Kishore's](https://github.com/RohanKishore) bugs :P, thats why most of my repos are forks of his.
+- I use arch as a daily driver, which is depressing enough. On top of that I run an old server out of my closet which gives me trouble every time I turn it on.
+- I yap more on my [website](https://codefromkerala.github.io)
 
 ## Experience
 
@@ -22,6 +22,12 @@ Currently working on a paper on fractional calculus, working on open source web 
 - Content Lead - [FOSSCET](https://fosscet.codeberg.page/)
 - Research Team Member - SCORE@CET
 - Web-Dev Team Member - EL Association
+
+## Extra stuff I do that Im too lazy to categorise
+
+- Play basketball/Football (crap at both)
+- Make music (808 heavy, still crap)
+- Write blogs (I'm just starting - doesn't mean im gonna be less crap as we go on)
 
 ## GitHub Activity
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CodeFromKerala&theme=react-dark)](https://github.com/Ashutosh00710/github-readme-activity-graph)
@@ -31,3 +37,7 @@ Currently working on a paper on fractional calculus, working on open source web 
 - Email: [mjnair52@gmail.com](mailto:mjnair52@gmail.com)
 - LinkedIn: [Madhav J Nair](https://www.linkedin.com/in/madhav-j-nair-878bb6372/)
 - Instagram: [\_madhavjnair\_](https://www.instagram.com/_madhavjnair_/)
+
+Thanks for reading all this.
+- if you like - check out my [website](https://codefromkerala.github.io)
+- if you don't like - feel free to shame me at any of the handles given above.
